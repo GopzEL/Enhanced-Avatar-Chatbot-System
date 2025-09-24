@@ -2,7 +2,10 @@
 *Transforming Response Delays into Engaging Moments*
 
 An open-source Unity project that reimagines LLM response latency as an opportunity for **human-like engagement**.  
-It blends **real-time speech processing**, **emotion-driven animations**, and **companion pet interactions** to make every waiting second meaningful.
+We are not just solving delay—we’re delivering a **complete AI-powered, avatar-enhanced chatbot platform**.  
+Built with flexible, modular design techniques, the system can be **easily adapted to any domain**:  
+from **business customer support** and **medical consultation** to **English teaching**, virtual training, or any interactive service that benefits from natural, emotionally rich conversations.  
+Real-time speech processing, emotion-driven animations, and a companion pet avatar ensure that every interaction feels engaging, professional, and alive.
 
 ---
 
